@@ -1,0 +1,651 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first anniversary of the government under His Highness the Lord Protector.</title>
+            <author>Marvell, Andrew, 1621-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89623</idno>
+            <idno type="STC">Wing M871</idno>
+            <idno type="STC">Thomason E480_1</idno>
+            <idno type="STC">ESTC R202883</idno>
+            <idno type="EEBO-CITATION">99863022</idno>
+            <idno type="PROQUEST">99863022</idno>
+            <idno type="VID">115204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115204)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 77:E480[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first anniversary of the government under His Highness the Lord Protector.</title>
+                  <author>Marvell, Andrew, 1621-1678.</author>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Newcomb, and are to be sold by Samuel Gellibrand at the golden Ball in Pauls Church-yard, near the west-end,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom: 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Andrew Marvell.</note>
+                  <note>In verse.</note>
+                  <note>Annotations on Thomason copy: "1654. Jan: 17"; the second 5 in 1655 has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115204:1"/>
+            <pb facs="tcp:115204:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE EIRST</hi> ANNIVERSARY OF THE GOVERNMENT UNDER <hi>HIS HIGHNESS</hi> THE Lord Protector.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Newcomb,</hi> and are to be ſold by <hi>Samuel Gellibrand</hi> at the golden Ball in <hi>Pauls</hi> Church-yard, near the Weſt-end, <hi>Anno Dom:</hi> 1655. <add>1654. Jan: 17.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:115204:2"/>
+            <pb n="1" facs="tcp:115204:2"/>
+            <head>THE ANNIVERSARY.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">L</seg>Ike the vain Curlings of the Wa<g ref="char:EOLhyphen"/>try maze,</l>
+               <l>Which in ſmooth Streams a ſink<g ref="char:EOLhyphen"/>ing Weight dos raiſe;</l>
+               <l>So Man, declining alwayes, diſappears</l>
+               <l>In the weak Circles of increaſing Years;</l>
+               <l>And his ſhort Tumults of themſelves Compoſe,</l>
+               <l>While flowing Time above his Head dos cloſe.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Cromwell</hi> alone with greater Vigour runs,</l>
+               <l>(Sun-like) the Stages of ſucceeding Suns:</l>
+               <l>And ſtill the Day which he doth next reſtore,</l>
+               <l>Is the juſt Wonder of the Day before.</l>
+               <l>
+                  <pb n="2" facs="tcp:115204:3"/>
+                  <hi>Cromwell</hi> alone doth with new Luſtre ſpring,</l>
+               <l>And ſhines the Jewell of the yearly Ring.</l>
+            </lg>
+            <lg>
+               <l>'Tis he the force of ſcatter'd Time contracts,</l>
+               <l>And in one Year the work of Ages acts:</l>
+               <l>While heavie Monarchs make a wide Return,</l>
+               <l>Longer, and more Malignant then <hi>Saturn:</hi>
+               </l>
+               <l>And though they all <hi>Platonique</hi> years ſhould raign,</l>
+               <l>In the ſame Poſture would be found again.</l>
+               <l>Their earthy Projects under ground they lay,</l>
+               <l>More ſlow and brittle then the <hi>China</hi> clay:</l>
+               <l>Well may they ſtrive to leave them to their Son,</l>
+               <l>For one Thing never was by one King don.</l>
+               <l>Yet ſome more active for a Frontier Town</l>
+               <l>Took in by Proxie, beggs a falſe Renown;</l>
+               <l>Another triumphs at the publique Coſt,</l>
+               <l>And will have Wonn, if he no more have Loſt;</l>
+               <l>They fight by Others, but in Perſon wrong,</l>
+               <l>And only are againſt their Subjects ſtrong;</l>
+               <l>Their other VVars ſeem but a feign'd conteſt,</l>
+               <l>This Common Enemy is ſtill oppreſt;</l>
+               <l>
+                  <pb n="3" facs="tcp:115204:3"/>
+If Conquerors, on them they turn their might;</l>
+               <l>If Conquered, on them they wreak their Spight:</l>
+               <l>They neither build the Temple in their dayes,</l>
+               <l>Nor Matter for ſucceeding Founders raiſe;</l>
+               <l>Nor ſacred Prophecies conſult within,</l>
+               <l>Much leſs themſelves to perfect them begin;</l>
+               <l>No other care they bear of things above,</l>
+               <l>But with Aſtrologers divine, and <hi>Jove,</hi>
+               </l>
+               <l>To know how long their Planet yet Reprives</l>
+               <l>From the deſerved Fate their guilty lives:</l>
+               <l>Thus (Image-like) an uſeleſs time they tell,</l>
+               <l>And with vain Scepter ſtrike the hourly Bell;</l>
+               <l>Nor more contribute to the ſtate of Things,</l>
+               <l>Then wooden Heads unto the Violls ſtrings.</l>
+            </lg>
+            <lg>
+               <l>While indefatigable <hi>Cromwell</hi> hyes,</l>
+               <l>And cuts his way ſtill nearer to the Skyes,</l>
+               <l>Learning a Muſique in the Region clear,</l>
+               <l>To tune this lower to that higher Sphere.</l>
+            </lg>
+            <lg>
+               <l>So when <hi>Amphion</hi> did the Lute command,</l>
+               <l>Which the God gave him; with his gentle hand,</l>
+               <l>
+                  <pb n="4" facs="tcp:115204:4"/>
+The rougher Stones, unto his Meaſures hew'd,</l>
+               <l>Dans'd up in order from the Quarreys rude;</l>
+               <l>This took a Lower, that an Higher place,</l>
+               <l>As he the Treble alter'd, or the Baſe:</l>
+               <l>No Note he ſtruck, but a new Story lay'd,</l>
+               <l>And the great Work aſcended while he play'd.</l>
+            </lg>
+            <lg>
+               <l>The liſtning Structures he with Wonder ey'd,</l>
+               <l>And ſtill new Stopps to various Time apply'd:</l>
+               <l>Now through the Strings a Martial rage he throws,</l>
+               <l>And joyning ſtreight the <hi>Theban</hi> Tow'r aroſe;</l>
+               <l>Then as he ſtrokes them with a Touch more ſweet,</l>
+               <l>The flocking Marbles in a Palace meet;</l>
+               <l>But, for he moſt the graver Notes did try,</l>
+               <l>Therefore the Temples rear'd their Columns high:</l>
+               <l>Thus, ere he ceas'd, his ſacred Lute creates</l>
+               <l>Th'harmonious City of the ſeven Gates.</l>
+            </lg>
+            <lg>
+               <l>Such was that wondrous Order and Conſent,</l>
+               <l>When <hi>Cromwell</hi> tun'd the ruling Inſtrument;</l>
+               <l>While tedious Stateſmen many years did hack,</l>
+               <l>Framing a Liberty that ſtill went back;</l>
+               <l>
+                  <pb n="5" facs="tcp:115204:4"/>
+Whoſe num'rous Gorge could ſwallow in an hour</l>
+               <l>That Iſland, which the Sea cannot devour:</l>
+               <l>Then our <hi>Amphion</hi> iſſues out and ſings,</l>
+               <l>And once he ſtruck, and twice, the pow'rful Strings.</l>
+            </lg>
+            <lg>
+               <l>The Commonwealth then firſt together came,</l>
+               <l>And each one enter'd in the willing Frame;</l>
+               <l>All other Matter yields, and may be rul'd;</l>
+               <l>But who the Minds of ſtubborn Men can build?</l>
+               <l>No Quarry bears a Stone ſo hardly wrought,</l>
+               <l>Nor with ſuch labour from its Center brought;</l>
+               <l>None to be ſunk in the Foundation bends,</l>
+               <l>Each in the Houſe the higheſt Place contends,</l>
+               <l>And each the Hand that lays him will direct,</l>
+               <l>And ſome fall back upon the Architect;</l>
+               <l>Yet all compos'd by his attractive Song,</l>
+               <l>Into the Animated City throng.</l>
+            </lg>
+            <lg>
+               <l>The Common-wealth dos through their Cen<g ref="char:EOLhyphen"/>ters all</l>
+               <l>Draw the Circumf'rence of the publique Wall;</l>
+               <l>The croſſeſt Spirits here doe take their part,</l>
+               <l>Faſt'ning the Contignation which they thwart;</l>
+               <l>
+                  <pb n="6" facs="tcp:115204:5"/>
+And they, whoſe Nature leads them to divide,</l>
+               <l>Uphold, this one, and that the other Side;</l>
+               <l>But the moſt Equall ſtill ſuſtein the Height,</l>
+               <l>And they as Pillars keep the Work upright;</l>
+               <l>While the reſiſtance of oppoſed Minds,</l>
+               <l>The Fabrique as with Arches ſtronger binds,</l>
+               <l>Which on the Baſis of a Senate free,</l>
+               <l>Knit by the Roofs Protecting weight agree.</l>
+            </lg>
+            <lg>
+               <l>When for his Foot he thus a place had found,</l>
+               <l>He hurles e'r ſince the World about him round;</l>
+               <l>And in his ſev'rall Aſpects, like a Star,</l>
+               <l>Here ſhines in Peace, and thither ſhoots a VVar:</l>
+               <l>While by his Beams obſerving Princes ſteer,</l>
+               <l>And wiſely court the Influence they fear;</l>
+               <l>O would they rather by his Pattern wonn,</l>
+               <l>Kiſs the approaching, nor yet angry Sonn;</l>
+               <l>And in their numbred Footſteps humbly tread</l>
+               <l>The path where holy Oracles do lead;</l>
+               <l>How might they under ſuch a Captain raiſe</l>
+               <l>The great Deſignes kept for the latter Dayes!</l>
+               <l>
+                  <pb n="7" facs="tcp:115204:5"/>
+But mad with Reaſon, ſo miſcall'd, of State</l>
+               <l>They know them not, &amp; what they know not hate.</l>
+               <l>Hence ſtill they ſing Hoſanna to the Whore,</l>
+               <l>And her whom they ſhould Maſſacre adore:</l>
+               <l>But Indians whom they ſhould convert, ſubdue;</l>
+               <l>Nor teach, but traffique with, or burn the Jew.</l>
+            </lg>
+            <lg>
+               <l>Unhappy Princes, ignorantly bred,</l>
+               <l>By Malice ſome, by Errour more miſled;</l>
+               <l>If gracious Heaven to my Life give length,</l>
+               <l>Leiſure to Time, and to my Weakneſs Strength,</l>
+               <l>Then ſhall I once with graver Accents ſhake</l>
+               <l>Your Regall ſloth, and your long Slumbers wake:</l>
+               <l>Like the ſhrill Huntſman that prevents the Eaſt,</l>
+               <l>Winding his Horn to Kings that chaſe the Beaſt.</l>
+            </lg>
+            <lg>
+               <l>Till then my Muſe ſhall hollow farr behind</l>
+               <l>Angelique <hi>Cromwell</hi> who outwings the wind;</l>
+               <l>And in dark Nights, and in cold Dayes alone</l>
+               <l>Purſues the Monſter thorough every Throne:</l>
+               <l>Which ſhrinking to her <hi>Roman</hi> Denn impure,</l>
+               <l>Gnaſhes her Goary teeth; nor there ſecure.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:115204:6"/>
+               <l>Hence oft I think, if in ſome happy Hour</l>
+               <l>High Grace ſhould meet in one with higheſt Pow'r,</l>
+               <l>And then a ſeaſonable People ſtill</l>
+               <l>Should bend to his, as he to Heavens will,</l>
+               <l>What we might hope, what wonderfull Effect</l>
+               <l>From ſuch a wiſh'd Conjuncture might reflect.</l>
+               <l>Sure, the my ſterious Work, where none withſtand,</l>
+               <l>Would forth with finiſh under ſuch a Hand:</l>
+               <l>Fore-ſhortned Time its uſeleſs Courſe would ſtay,</l>
+               <l>And ſoon precipitate the lateſt Day.</l>
+               <l>But a thick Cloud about that Morning lyes,</l>
+               <l>And intercepts the Beams of Mortall eyes,</l>
+               <l>That 'tis the moſt which we determine can,</l>
+               <l>If theſe the Times, then this muſt be the Man.</l>
+               <l>And well he therefore dos, and well has gueſt,</l>
+               <l>VVho in his Age has always forward preſt:</l>
+               <l>And knowing not where Heavens choice may light,</l>
+               <l>Girds yet his Sword, and ready ſtands to fight;</l>
+               <l>But Men alaſs, as if they nothing car'd,</l>
+               <l>Look on, all unconcern'd, or unprepar'd;</l>
+               <l>
+                  <pb n="9" facs="tcp:115204:6"/>
+And Stars ſtill fall, and ſtill the Dragons Tail</l>
+               <l>Swindges the Volumes of its horrid Flail.</l>
+               <l>For the great Juſtice that did firſt ſuſpend</l>
+               <l>The World by Sinn, dos by the ſame extend.</l>
+               <l>Hence that bleſt Day ſtill counterpoyſed waſtes,</l>
+               <l>The Ill delaying, what th'Elected haſtes;</l>
+               <l>Hence landing Nature to new Seas is toſt,</l>
+               <l>And good Deſignes ſtill with their Authors loſt.</l>
+            </lg>
+            <lg>
+               <l>And thou, great <hi>Cromwell,</hi> for whoſe happy birth</l>
+               <l>A Mold was choſen out of better Earth;</l>
+               <l>VVhoſe Saint-like Mother we did lately ſee</l>
+               <l>Live out an Age, long as a Pedigree;</l>
+               <l>That ſhee might ſeem, could we the Fall diſpute,</l>
+               <l>T'have ſmelt the Bloſſome, and not eat the Fruit;</l>
+               <l>Though none dos of more laſting Parents grow,</l>
+               <l>But never any did them Honor ſo;</l>
+               <l>Though thou thine Heart from Evil ſtill unſtain'd,</l>
+               <l>And always haſt thy Tongue from fraud refrain'd;</l>
+               <l>Thou, who ſo oft through Storms of thundring Lead</l>
+               <l>Haſt born ſecurely thine undaunted Head,</l>
+               <l>
+                  <pb n="10" facs="tcp:115204:7"/>
+Thy Breſt through ponyarding Conſpiracies,</l>
+               <l>Drawn from the Sheath of lying Prophecies;</l>
+               <l>Thee proof beyond all other Force or Skill,</l>
+               <l>Our Sinns endanger, and ſhall one day kill.</l>
+            </lg>
+            <lg>
+               <l>How near they fail'd, and in thy ſudden Fall</l>
+               <l>At once aſſay'd to overturn us all.</l>
+               <l>Our brutiſh fury ſtrugling to be Free,</l>
+               <l>Hurry'd thy Horſes while they hurry'd thee.</l>
+               <l>When thou hadſt almoſt quit thy Mortall cares,</l>
+               <l>And ſoyl'd in Duſt thy Crown of ſilver Hairs.</l>
+            </lg>
+            <lg>
+               <l>Let this one Sorrow interweave among</l>
+               <l>The other Glories of our yearly Song.</l>
+               <l>Like skilful Looms which through the coſtly thred</l>
+               <l>Of purling Ore, a ſhining wave do ſhed:</l>
+               <l>So ſhall the Tears we on paſt Grief employ,</l>
+               <l>Still as they trickle, glitter in our Joy.</l>
+               <l>So with more Modeſty we may be True,</l>
+               <l>And ſpeak as of the Dead the Praiſes due:</l>
+               <l>While impious Men deceiv'd with pleaſure ſhort,</l>
+               <l>On their own Hopes ſhall find the Fall retort.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:115204:7"/>
+               <l>But the poor Beaſts wanting their noble Guide,</l>
+               <l>What could they more? ſhrunk guiltily aſide.</l>
+               <l>Firſt winged Fear tranſports them far away,</l>
+               <l>And leaden Sorrow then their flight did ſtay.</l>
+               <l>See how they each his towring Creſt abate,</l>
+               <l>And the green Graſs, &amp; their known Mangers hate,</l>
+               <l>Nor through wide Noſtrils ſnuffe the wanton aire,</l>
+               <l>Nor their round Hoofs, or curled Manes compare;</l>
+               <l>With wandring Eyes, and reſtleſs Ears they ſtood,</l>
+               <l>And with ſhrill Neighings ask'd him of the Wood.</l>
+            </lg>
+            <lg>
+               <l>Thou <hi>Cromwell</hi> falling not a ſtupid Tree,</l>
+               <l>Or Rock ſo ſavage, but it mourn'd for thee:</l>
+               <l>And all about was heard a Panique groan,</l>
+               <l>As if that Nature ſelf were overthrown.</l>
+               <l>It ſeem'd the Earth did from the Center tear;</l>
+               <l>It ſeem'd the Sun was faln out of the Sphere:</l>
+               <l>Juſtice obſtructed lay, and Reaſon fool'd;</l>
+               <l>Courage diſheartned, and Religion cool'd.</l>
+               <l>A diſmall Silence through the Palace went,</l>
+               <l>And then loud Shreeks the vaulted Marbles rent.</l>
+               <l>
+                  <pb n="12" facs="tcp:115204:8"/>
+Such as the dying Chorus ſings by turns,</l>
+               <l>And to deaf Seas, and ruthleſs Tempeſts mourns,</l>
+               <l>When now they ſink, &amp; now the plundring Streams</l>
+               <l>Break up each Deck, and rip the Oaken ſeams.</l>
+            </lg>
+            <lg>
+               <l>But thee triumphant hence the firy Carr,</l>
+               <l>And firy Steeds had born out of the VVarr,</l>
+               <l>From the low VVorld, and thank leſs Men above,</l>
+               <l>Unto the Kingdom bleſt of Peace and Love:</l>
+               <l>VVe only mourn'd our ſelves, in chine Aſcent,</l>
+               <l>VVhom thou hadſt left beneath with Mantle rent.</l>
+            </lg>
+            <lg>
+               <l>For all delight of Life thou then didſt loſe,</l>
+               <l>When to Command, thou didſt thy ſelf Depoſe;</l>
+               <l>Reſigning up thy Privacy ſo dear,</l>
+               <l>To turn the headſtrong Peoples Charioteer;</l>
+               <l>For to be <hi>Cromwell</hi> was a greater thing,</l>
+               <l>Then ought below, or yet above a King:</l>
+               <l>Therefore thou rather didſt thy Self depreſs,</l>
+               <l>Yielding to Rule, becauſe it made thee Leſs.</l>
+            </lg>
+            <lg>
+               <l>For, neither didſt thou from the firſt apply</l>
+               <l>Thy ſober Spirit unto things too High,</l>
+               <l>
+                  <pb n="13" facs="tcp:115204:8"/>
+But in thine own Fields exerciſedſt long,</l>
+               <l>An healthfull Mind within a Body ſtrong;</l>
+               <l>Till at the Seventh time thou in the Skyes,</l>
+               <l>As a ſmall Cloud, like a Mans hand didſt riſe;</l>
+               <l>Then did thick Miſts and VVinds the aire deform,</l>
+               <l>And down at laſt thou powr'dſt the fertile Storm;</l>
+               <l>VVich to the thirſty Land did plenty bring,</l>
+               <l>But, though forewarn'd, o'r-took and wet the King.</l>
+            </lg>
+            <lg>
+               <l>VVhat ſince he did, an higher Force him puſh'd</l>
+               <l>Still from behind, and it before him ruſh'd,</l>
+               <l>Though undiſcern'd among the tumult blind,</l>
+               <l>VVho think thoſe high Decrees by Man deſign'd.</l>
+               <l>Twas Heav'n would not that his Pow'r ſhould ceaſe,</l>
+               <l>But walk ſtill middle betwixt VVarr and Peace;</l>
+               <l>Chooſing each Stone, and poyſing every weight,</l>
+               <l>Trying the Meaſures of the Bredth and Height;</l>
+               <l>Here pulling down, and there erecting New,</l>
+               <l>Founding a firm State by Proportions true.</l>
+            </lg>
+            <lg>
+               <l>VVhen <hi>Gideon</hi> ſo did from the Warr retreat,</l>
+               <l>Yet by the Conqueſt of two Kings grown great,</l>
+               <l>
+                  <pb n="14" facs="tcp:115204:9"/>
+He on the Peace extends a Warlike power,</l>
+               <l>And <hi>Is'rel</hi> ſilent ſaw him raſe the Tow'r;</l>
+               <l>And how he <hi>Succoths</hi> Elders durſt ſuppreſs,</l>
+               <l>With Thorns and Briars of the Wilderneſs.</l>
+               <l>No King might ever ſuch a Force have don;</l>
+               <l>Yet would not he be Lord, nor yet his Son.</l>
+            </lg>
+            <lg>
+               <l>Thou with the ſame ſtrength, &amp; an Heart as plain,</l>
+               <l>Didſt (like thine Olive) ſtill refuſe to Reign;</l>
+               <l>Though why ſhould others all thy Labor ſpoil,</l>
+               <l>And Brambles be anointed with thine Oil,</l>
+               <l>Whoſe climbing Flame, without a timely ſtop,</l>
+               <l>Had quickly Levell'd every Cedar's top.</l>
+               <l>Therefore firſt growing to thy ſelf a Law,</l>
+               <l>Th'ambitious Shrubs thou in juſt time didſt aw.</l>
+            </lg>
+            <lg>
+               <l>So have I ſeen at Sea, when whirling Winds,</l>
+               <l>Hurry the Bark, but more the Seamens minds,</l>
+               <l>Who with miſtaken Courſe ſalute the Sand,</l>
+               <l>And threat'ning Rocks miſapprehend for Land;</l>
+               <l>While balefull <hi>Tritons</hi> to the ſhipwrack guide,</l>
+               <l>And Corpoſants along the Tacklings ſlide.</l>
+               <l>
+                  <pb n="15" facs="tcp:115204:9"/>
+The Paſſengers all wearyed out before,</l>
+               <l>Giddy, and wiſhing for the fatall Shore;</l>
+               <l>Some luſty Mate, who with more carefull Ey</l>
+               <l>Counted the Hours, and ev'ry Star did ſpy,</l>
+               <l>The Helm dos from the artleſs Steerſman ſtrain,</l>
+               <l>And doubles back unto the ſafer Main.</l>
+               <l>What though a while they grumble diſcontent,</l>
+               <l>Saving himſelf he dos their loſs prevent.</l>
+            </lg>
+            <lg>
+               <l>'Tis not a Freedome, that where All command;</l>
+               <l>Nor Tyrannie, where One dos them withſtand:</l>
+               <l>But who of both the Bounders knows to lay</l>
+               <l>Him as their Father muſt the State obey:</l>
+            </lg>
+            <lg>
+               <l>Thou, and thine Houſe, like <hi>Noahs</hi> Eight did reſt,</l>
+               <l>Left by the Warrs Flood on the Mountains creſt:</l>
+               <l>And the large Vale lay ſubject to thy Will,</l>
+               <l>Which thou but as an Husbandman wouldſt Till:</l>
+               <l>And only didſt for others plant the Vine</l>
+               <l>Of Liberty, not drunken with its Wine.</l>
+            </lg>
+            <lg>
+               <l>That ſober Liberty which men may have,</l>
+               <l>That they enjoy, but more they vainly crave:</l>
+               <l>
+                  <pb n="16" facs="tcp:115204:10"/>
+And ſuch as to their Parents Tents do preſs,</l>
+               <l>May ſhew their own, not ſee his Nakedneſs.</l>
+            </lg>
+            <lg>
+               <l>Yet ſuch a <hi>Chammiſh</hi> iſſue ſtill dos rage,</l>
+               <l>The Shame and Plague both of the Land and Age,</l>
+               <l>Who watch'd thy halting, and thy Fall deride,</l>
+               <l>Rejoycing when thy Foot had ſlipt aſide;</l>
+               <l>That their new King might the fifth Scepter ſhake,</l>
+               <l>And make the VVorld, by his Example, Quake:</l>
+               <l>VVhoſe frantique Army ſhould they want for Men</l>
+               <l>Might muſter Hereſies, ſo one were ten.</l>
+               <l>What thy Misfortune, they the Spirit call,</l>
+               <l>And their Religion only is to Fall.</l>
+               <l>Oh <hi>Mahomet!</hi> now couldſt thou riſe again,</l>
+               <l>Thy Falling-ſicknes ſhould have made thee Reign,</l>
+               <l>While <hi>Feake</hi> and <hi>Simpſon</hi> would in many a Tome,</l>
+               <l>Have writ the Comments of thy ſacred Foame:</l>
+               <l>For ſoon thou mightſt have paſt among their Rant</l>
+               <l>VVer't but for thine unmoved Tulipant;</l>
+               <l>As thou muſt needs have own'd them of thy band</l>
+               <l>For Prophecies fit to be <hi>Alcorand.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="17" facs="tcp:115204:10"/>
+               <l>Accurſed Locuſts, whom your King dos ſpit</l>
+               <l>Out of the Center of th'unbottom'd Pit;</l>
+               <l>Wand'rers, Adult'rers, Lyers, <hi>Munſer's</hi> reſt,</l>
+               <l>Sorcerers, Atheiſts, Jeſuites, Poſſeſt;</l>
+               <l>You who the Scriptures and the Laws deface</l>
+               <l>VVith the ſame liberty as Points and Lace;</l>
+               <l>Oh Race moſt hypocritically ſtrict!</l>
+               <l>Bent to reduce us to the ancient Pict;</l>
+               <l>VVell may you act the <hi>Adam</hi> and the <hi>Eve;</hi>
+               </l>
+               <l>Ay, and the Serpent too that did deceive.</l>
+            </lg>
+            <lg>
+               <l>But the great Captain, now the danger's ore,</l>
+               <l>Makes you for his ſake Tremble one fit more;</l>
+               <l>And, to your ſpight, returning yet alive</l>
+               <l>Dos with himſelf all that is good revive.</l>
+            </lg>
+            <lg>
+               <l>So when firſt Man did through the Morning new</l>
+               <l>See the bright Sun his ſhining Race purſue,</l>
+               <l>All day he follow'd wlth unwearied ſight,</l>
+               <l>Pleas'd with that other World of moving Light;</l>
+               <l>But thought him when he miſs'd his ſetting beams,</l>
+               <l>Sunk in the Hills, or plung'd below the St<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eams.</l>
+               <l>
+                  <pb n="18" facs="tcp:115204:11"/>
+VVhile diſmal blacks hung round the Univerſe,</l>
+               <l>And Stars (like Tapers) burn'd upon his Herſe:</l>
+               <l>And Owls and Ravens with their ſcreeching noyſe</l>
+               <l>Did make the Fun'rals ſadder by their Joyes,</l>
+               <l>His weeping Eys the dolefull Vigills keep,</l>
+               <l>Not knowing yet the Night was made for ſleep:</l>
+               <l>Still to the VVeſt, where he him loſt, he turn'd,</l>
+               <l>And with ſuch accents, as Deſpairing, mourn'd:</l>
+               <l>Why did mine Eyes once ſee ſo bright a Ray;</l>
+               <l>Or why Day laſt no longer then a Day?</l>
+               <l>VVhen ſtreight the Sun behind him he deſcry'd,</l>
+               <l>Smiling ſerenely from the further ſide.</l>
+            </lg>
+            <lg>
+               <l>So while our Star that gives us Light and Heat,</l>
+               <l>Seem'd now a long and gloomy Night to threat,</l>
+               <l>Up from the other World his Flame he darts,</l>
+               <l>And Princes ſhining through their windows, ſtarts;</l>
+               <l>VVho their ſuſpected Counſellors refuſe,</l>
+               <l>And credulous Ambaſſadors accuſe.</l>
+            </lg>
+            <lg>
+               <l>"Is this, ſaith one, the Nation that we read</l>
+               <l>"Spent with both VVars, under a Captain dead?</l>
+               <l>
+                  <pb n="19" facs="tcp:115204:11"/>
+"Yet rigg a Navie while we dreſs us late;</l>
+               <l>"And ere we Dine, raſe and rebuild our State.</l>
+               <l>"What Oaken Forreſts, and what golden Mines!</l>
+               <l>"VVhat Mints of Men, what Union of Deſignes!</l>
+               <l>"Unleſs their Ships, do, as their Fowle proceed</l>
+               <l>"Of ſhedding Leaves, that with their Ocean breed.</l>
+               <l>"Theirs are not Ships, but rather Arks of War,</l>
+               <l>"And beaked Promontories ſail'd from farr;</l>
+               <l>"Of floting Iſlands a new hatched Neſt;</l>
+               <l>"A Fleet of VVorlds, of other VVorlds in queſt;</l>
+               <l>"An hideous ſhole of wood-Leviathans,</l>
+               <l>"Arm'd with three Tire-of brazen Hurricans;</l>
+               <l>"That through the Center ſhoot their thundring ſide</l>
+               <l>"And ſink the Earth that dos at Anchor ride.</l>
+               <l>"VVhat refuge to eſcape them can be found,</l>
+               <l>"Whoſe watry Leaguers all the world ſurround?</l>
+               <l>"Needs muſt we all their Tributaries be,</l>
+               <l>"Whoſe Navies hold the Sluces of the Sea.</l>
+               <l>"The Ocean is the Fountain of Command,</l>
+               <l>"But that once took, we Captives are on Land.</l>
+               <l>
+                  <pb n="20" facs="tcp:115204:12"/>
+"And thoſe that have the Waters for their ſhare,</l>
+               <l>"Can quickly leave us neither Earth nor Aire.</l>
+               <l>"Yet if through theſe our Fears could find a paſs;</l>
+               <l>"Through double Oak, &amp; lin'd with treble Braſs;</l>
+               <l>"That one Man ſtill, although but nam'd, alarms</l>
+               <l>"More then all Men, all Navies, and all Arms.</l>
+               <l>"Him, all the Day, Him, in late Nights I dread,</l>
+               <l>"And ſtill his Sword ſeems hanging ore my head.</l>
+               <l>"The Nation had been ours, but his one Soule</l>
+               <l>"Moves the great Bulk, and animates the whole.</l>
+               <l>"He Secrecy with Number hath inchas'd,</l>
+               <l>"Courage with Age, Maturity with Haſt:</l>
+               <l>"The Valiants Terror, Riddle of the Wife;</l>
+               <l>"And ſtill his Fauchion all our Knots unties.</l>
+               <l>"Where did he learn thoſe Arts that coſt us dear?</l>
+               <l>"Where below Earth, or where above the Sphere?</l>
+               <l>"He ſeems a King by long Succeſſion born,</l>
+               <l>"And yet the ſame to be a King dos ſcorn.</l>
+               <l>"Abroad a King he ſeems, and ſomthing more,</l>
+               <l>"At Home a Subject on the equall Floor.</l>
+               <l>
+                  <pb n="21" facs="tcp:115204:12"/>
+"O could I once him with our Title ſee,</l>
+               <l>"So ſhould I hope yet he might Dye as wee.</l>
+               <l>"But let them write his Praiſe that love him beſt,</l>
+               <l>"It grieves me ſore to have thus much confeſt.</l>
+            </lg>
+            <lg>
+               <l>Pardon, great Prince, if thus their Fear or Spight</l>
+               <l>More then our Love and Duty do thee Right.</l>
+               <l>I yield, nor further will the Prize contend;</l>
+               <l>So that we both alike may miſs our End:</l>
+               <l>While thou thy venerable Head doſt raiſe</l>
+               <l>As far above their Malice as my Praiſe.</l>
+               <l>And as the <hi>Angell</hi> of our Commonweal,</l>
+               <l>Troubling the Waters, yearly mak'ſt them Heal.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
